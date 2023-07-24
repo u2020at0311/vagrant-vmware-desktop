@@ -1,4 +1,4 @@
-# Vagrant VMware Desktop Providers
+ぜｎ# Vagrant VMware Desktop Providers
 
 This is the common codebase for the official providers for VMware
 desktop products: Fusion, Player, and Workstation. This therefore works
@@ -6,7 +6,7 @@ on Windows, Mac, and Linux.
 
 ## Box Format
 
-All the desktop plugins share a common box format known as `vmware_desktop`.
+All the desktop plugins <ruby>share a common box format<rt>とある共通箱整形を共有する</rt></ruby> <ruby>known as<rt>と知られている</rt></ruby> `vmware_desktop`.
 The plugins also all support the formats `vmware_fusion`, `vmware_workstation`,
 and `vmware_player`.
 
